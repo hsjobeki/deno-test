@@ -1,0 +1,16 @@
+/*
+ * Skypack CDN - big.js@5.2.2
+ *
+ * Learn more:
+ *   📙 Package Documentation: https://www.skypack.dev/view/big.js
+ *   📘 Skypack Documentation: https://www.skypack.dev/docs
+ *
+ * Pinned URL: (Optimized for Production)
+ *   ▶️ Normal: https://cdn.skypack.dev/pin/big.js@v5.2.2-sUR8fKsGHRxsJyqyvOSP/mode=imports/optimized/bigjs.js
+ *   ⏩ Minified: https://cdn.skypack.dev/pin/big.js@v5.2.2-sUR8fKsGHRxsJyqyvOSP/mode=imports,min/optimized/bigjs.js
+ *
+ */
+
+// Browser-Optimized Imports (Don't directly import the URLs below in your application!)
+export * from '/-/big.js@v5.2.2-sUR8fKsGHRxsJyqyvOSP/dist=es2019,mode=imports/optimized/bigjs.js';
+export {default} from '/-/big.js@v5.2.2-sUR8fKsGHRxsJyqyvOSP/dist=es2019,mode=imports/optimized/bigjs.js';

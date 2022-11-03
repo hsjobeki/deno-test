@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "last-modified": "Wed, 26 Oct 2022 23:28:33 GMT",
+    "content-type": "application/typescript; charset=utf-8",
+    "vary": "Accept-Encoding, Origin",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Thu, 27 Oct 2022 02:16:07 GMT",
+    "etag": "\"2a992220d48a01cbe6b7b8ed429f9e0a\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "age": "122432",
+    "accept-ranges": "bytes",
+    "x-amz-cf-id": "cim8ly3-5iARkTCXOMTTrBLN-u_5YpjeSRuZKSC-QV_RuPxzWm9MzA==",
+    "server": "deno/europe-west3-c",
+    "via": "1.1 6fa33d47af6f4da7007689083cfe9b9c.cloudfront.net (CloudFront)",
+    "x-amz-version-id": ".0zNsdKIgB7XVsWejdtPX_G2j99LzbjQ",
+    "x-amz-replication-status": "COMPLETED",
+    "content-length": "6764",
+    "access-control-allow-origin": "*",
+    "x-cache": "Hit from cloudfront",
+    "x-amz-cf-pop": "FRA2-C2"
+  },
+  "url": "https://deno.land/std@0.161.0/node/internal/crypto/cipher.ts",
+  "now": {
+    "secs_since_epoch": 1666959397,
+    "nanos_since_epoch": 891815399
+  }
+}

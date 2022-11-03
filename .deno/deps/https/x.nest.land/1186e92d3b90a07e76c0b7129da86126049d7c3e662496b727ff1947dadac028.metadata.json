@@ -1,0 +1,19 @@
+{
+  "headers": {
+    "content-length": "101",
+    "date": "Thu, 27 Oct 2022 09:48:49 GMT",
+    "server": "nginx/1.14.0 (Ubuntu)",
+    "connection": "keep-alive",
+    "access-control-allow-methods": "GET,POST",
+    "access-control-allow-headers": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Accept",
+    "access-control-allow-origin": "*",
+    "location": "https://arweave.net/t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w/source/index.js"
+  },
+  "url": "https://x.nest.land/ramda@0.27.0/source/index.js",
+  "now": {
+    "secs_since_epoch": 1666864129,
+    "nanos_since_epoch": 950023488
+  }
+}

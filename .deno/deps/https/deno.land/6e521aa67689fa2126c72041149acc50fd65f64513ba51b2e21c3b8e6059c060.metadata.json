@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-type": "application/typescript; charset=utf-8",
+    "accept-ranges": "bytes",
+    "x-amz-version-id": "riBPwrypeKRegmo4oPi0i4cQnKxm5WXf",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*",
+    "server": "deno/europe-west3-c",
+    "via": "1.1 6fa33d47af6f4da7007689083cfe9b9c.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "D7ASVXdcRKn8L1famRwX9WEDZOhx0CgW9RMTZCN5d53OrJ8ZSmXxfw==",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "10432",
+    "vary": "Accept-Encoding, Origin",
+    "x-amz-replication-status": "COMPLETED",
+    "last-modified": "Wed, 26 Oct 2022 23:28:32 GMT",
+    "date": "Thu, 27 Oct 2022 02:16:06 GMT",
+    "etag": "\"6c0bed12c1d531dd8754fa42a695c488\"",
+    "age": "122433",
+    "x-cache": "Hit from cloudfront",
+    "x-amz-cf-pop": "FRA2-C2"
+  },
+  "url": "https://deno.land/std@0.161.0/node/crypto.ts",
+  "now": {
+    "secs_since_epoch": 1666959397,
+    "nanos_since_epoch": 835733101
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "server": "CloudFront",
+    "via": "1.1 03d509e8374e9f42668961b5e0201348.cloudfront.net (CloudFront)",
+    "vary": "Origin",
+    "content-length": "0",
+    "x-cache": "FunctionGeneratedResponse from cloudfront",
+    "location": "https://w5wr43kv2j3pptou6hn6gc2jdecgricl7e4wdtlc7lnojwwac5oa.arweave.net/t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w/source/index.js",
+    "x-amz-cf-id": "KT3K5itf3P26E_H3Cm3VQOadviA8ZR9jOMNaJroWpdqZL_aQLLbcaQ==",
+    "x-amz-cf-pop": "FRA2-C2",
+    "date": "Thu, 27 Oct 2022 09:48:50 GMT"
+  },
+  "url": "https://arweave.net/t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w/source/index.js",
+  "now": {
+    "secs_since_epoch": 1666864130,
+    "nanos_since_epoch": 12098145
+  }
+}

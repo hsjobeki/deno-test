@@ -1,0 +1,19 @@
+{
+  "headers": {
+    "location": "https://cdn.skypack.dev/big.js@^5.2.2",
+    "age": "0",
+    "x-vercel-id": "fra1::sfo1::mrbx2-1666864129586-7ab7fd77cd73",
+    "content-length": "0",
+    "access-control-allow-origin": "*",
+    "date": "Thu, 27 Oct 2022 09:48:49 GMT",
+    "server": "Vercel",
+    "x-vercel-cache": "MISS",
+    "cache-control": "public, max-age=0, must-revalidate",
+    "strict-transport-security": "max-age=63072000"
+  },
+  "url": "https://cdn.pika.dev/big.js/^5.2.2",
+  "now": {
+    "secs_since_epoch": 1666864129,
+    "nanos_since_epoch": 763711796
+  }
+}

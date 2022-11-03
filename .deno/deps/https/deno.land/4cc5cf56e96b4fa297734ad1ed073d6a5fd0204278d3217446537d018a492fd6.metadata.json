@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-amz-cf-id": "Q9OIyC1YEzLZ2dxv6zqteHbDbLprtBmKr4TcyOzlxYzAJtcSDzZTPQ==",
+    "x-amz-replication-status": "COMPLETED",
+    "accept-ranges": "bytes",
+    "age": "130426",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Thu, 27 Oct 2022 00:02:54 GMT",
+    "etag": "\"be7555f6b2bc77e04e11ab2bb6fdd6be\"",
+    "x-amz-version-id": "PJkHH4hvn3m0JKaf8jQQE_j7_KMUE0FO",
+    "last-modified": "Wed, 26 Oct 2022 23:28:32 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "vary": "Accept-Encoding, Origin",
+    "content-type": "application/typescript; charset=utf-8",
+    "x-amz-cf-pop": "FRA2-C2",
+    "server": "deno/europe-west3-c",
+    "content-length": "7750",
+    "via": "1.1 6fa33d47af6f4da7007689083cfe9b9c.cloudfront.net (CloudFront)",
+    "access-control-allow-origin": "*",
+    "x-cache": "Hit from cloudfront"
+  },
+  "url": "https://deno.land/std@0.161.0/node/internal_binding/_libuv_winerror.ts",
+  "now": {
+    "secs_since_epoch": 1666959398,
+    "nanos_since_epoch": 254449043
+  }
+}

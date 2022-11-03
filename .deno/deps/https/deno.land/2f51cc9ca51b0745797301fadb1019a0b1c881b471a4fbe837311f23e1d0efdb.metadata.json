@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "accept-ranges": "bytes",
+    "vary": "Accept-Encoding, Origin",
+    "x-amz-version-id": "null",
+    "date": "Mon, 24 Oct 2022 07:02:31 GMT",
+    "age": "269179",
+    "access-control-allow-origin": "*",
+    "content-length": "798",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "Hit from cloudfront",
+    "via": "1.1 edfd22ec6695cdc9d7ac634220af1314.cloudfront.net (CloudFront)",
+    "server": "deno/europe-west3-a",
+    "etag": "\"c140512b5cb5eaf9ede33e54e22790c5\"",
+    "content-type": "application/typescript; charset=utf-8",
+    "x-amz-cf-pop": "FRA2-C2",
+    "last-modified": "Sat, 29 Aug 2020 19:57:51 GMT",
+    "x-amz-cf-id": "ef9nbv8gYFX5-NV7IwSkdfNIsOTTMbJuOTDB-AqBzAZzQgrLCEXKTA=="
+  },
+  "url": "https://deno.land/x/math@v1.1.0/round.ts",
+  "now": {
+    "secs_since_epoch": 1666864129,
+    "nanos_since_epoch": 581652208
+  }
+}

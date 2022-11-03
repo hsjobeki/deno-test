@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "content-length": "664",
+    "via": "1.1 f58d1aa3b3b084adbea41c7523e2047e.cloudfront.net (CloudFront)",
+    "x-amz-cf-pop": "FRA56-C1",
+    "vary": "Origin",
+    "x-cache": "Hit from cloudfront",
+    "date": "Thu, 27 Oct 2022 09:42:57 GMT",
+    "age": "353",
+    "etag": "t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w",
+    "x-amz-cf-id": "fCZTbzoq2_eSR_zrwamBMxCAs7JSRkSYgif-0pz9O4SXp-PZtLHtWQ==",
+    "x-trace": "l3UruFaCTUd",
+    "cache-control": "public,must-revalidate,max-age=2592000",
+    "content-type": "application/javascript; charset=utf-8"
+  },
+  "url": "https://w5wr43kv2j3pptou6hn6gc2jdecgricl7e4wdtlc7lnojwwac5oa.arweave.net/t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w/source/union.js",
+  "now": {
+    "secs_since_epoch": 1666864130,
+    "nanos_since_epoch": 450710904
+  }
+}

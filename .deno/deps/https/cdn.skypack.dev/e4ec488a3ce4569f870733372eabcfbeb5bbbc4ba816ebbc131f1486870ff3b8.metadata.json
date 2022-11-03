@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "server": "cloudflare",
+    "x-vercel-id": "fra1::sfo1::trvbh-1666864129850-248e29fa03fd",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "content-type": "application/javascript; charset=utf-8",
+    "cf-cache-status": "MISS",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=Y9RuGs4rXcf%2BraTiSDOqVcaydFJm%2BmN8TlMJ7G1PbawZrmt9UTmep8PpuhHa0r%2BgPPA0rW%2F1XIAp17Tr7yP%2FV5ugsGoVSCxXAephE8WG6UEQcF4u2vLxxSVPcZvQYEkJAiIm8xgRK8OqcbUc4A%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "cache-control": "public, max-age=300",
+    "x-pinned-url": "/pin/big.js@v5.2.2-sUR8fKsGHRxsJyqyvOSP/mode=imports/optimized/bigjs.js",
+    "cf-ray": "760a84ab6d4c9223-FRA",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "access-control-expose-headers": "X-Import-Status, X-Import-Url, X-Pinned-Url, Content-Length",
+    "vary": "Accept-Encoding",
+    "x-import-status": "SUCCESS",
+    "x-vercel-cache": "MISS",
+    "x-import-url": "/-/big.js@v5.2.2-sUR8fKsGHRxsJyqyvOSP/dist=es2019,mode=imports/optimized/bigjs.js",
+    "strict-transport-security": "max-age=63072000",
+    "access-control-allow-origin": "*",
+    "date": "Thu, 27 Oct 2022 09:48:50 GMT",
+    "etag": "W/\"2fb-l7FAsuaa84i1PGY5cQXLT/qEESI\""
+  },
+  "url": "https://cdn.skypack.dev/big.js@^5.2.2",
+  "now": {
+    "secs_since_epoch": 1666864130,
+    "nanos_since_epoch": 151474172
+  }
+}
